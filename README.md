@@ -1,4 +1,4 @@
-# Deploying my Own ERC-20 token 
+# RUB tokens
 
 This is  basic deployment of 100 RUB tokens on GOERLI TestNet.
 
